@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d8f19077-b503-4055-9334-d3b21b77f519" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/코틀린 프로그래밍 기본 2/1단원. 객체지향의 기본.md" beforeDir="false" afterPath="$PROJECT_DIR$/코틀린 프로그래밍 기본 2/1단원. 객체지향의 기본.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/git/Boostcourse-Kotlin-Study",
+    "last_opened_file_path": "C:/git/algorithm/kotlin",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
